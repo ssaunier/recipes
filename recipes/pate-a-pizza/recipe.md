@@ -9,7 +9,7 @@ Style napolitain, cuisson au four traditionnel (sans four à pizza spécial)
 ---
 
 - *660 g* farine (Tipo 00 ou T65, au moins 12% de protéines)
-- *440 g* eau froide
+- *440 g* eau
 - *16 g* sel
 - *60 g* levain
 - *12 g* sucre
@@ -17,7 +17,7 @@ Style napolitain, cuisson au four traditionnel (sans four à pizza spécial)
 
 ---
 
-1. Mélanger tous les ingrédients.
+1. Mélanger tous les ingrédients, avec de l'eau froide.
 1. Pétrir pendant 5 minutes. Si la pâte est trop collante, la laisser reposer à couvert 20 minutes puis reprendre le pétrissage.
 1. Laisser reposer et fermenter à couvert pendant 3 à 4h.
 1. Diviser la pâte en 4 pâtons de même poids et façonner les boules.

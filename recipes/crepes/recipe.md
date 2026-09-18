@@ -13,7 +13,7 @@ Façon Paul Bocuse (50% du beurre recommandé)
 - *2 cuillères à soupe* sucre
 - *4* oeuf
 - *125 g* beurre
-- *1* pincée de sel
+- *1 pincée* sel
 
 ---
 

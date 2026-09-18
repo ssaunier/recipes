@@ -13,7 +13,7 @@ Galette toscane très fine, croustillante et gratinée au parmesan
 - *150 g* farine T55
 - *40 g* semoule fine
 - *20 g* huile d'olive
-- *220 g* eau froide
+- *220 g* eau
 - *1* oignon
 - parmesan
 

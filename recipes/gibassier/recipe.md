@@ -11,7 +11,7 @@ Galette provençale à l'huile d'olive et à la fleur d'oranger, servie pour No�
 ## Levain
 
 - *120 g* farine T65
-- *12 cL* eau de source
+- *12 cL* eau
 - *1 pincée* sel
 
 ## Pâte

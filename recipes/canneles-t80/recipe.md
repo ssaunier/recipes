@@ -11,7 +11,7 @@ Pâtisserie Bordelaise, version Labo & Gato (Cassonade)
 - *500 g* lait
 - *520 g* cassonade
 - *65 g* beurre
-- *1* gousse vanille
+- *1* gousse de vanille
 - *300 g* farine T80
 - *4* oeuf
 - *10 cL* rhum ambré

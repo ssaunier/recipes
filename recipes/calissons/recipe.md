@@ -11,7 +11,7 @@ Confiserie provençale, pâte d'amandes et fruits confits sur feuille azyme
 ## Pâte de calisson
 
 - *200 g* sucre glace
-- *300 g* poudre d'amandes
+- *300 g* poudre d'amande
 - *3 cuillères à soupe* eau de fleur d'oranger
 - *160 g* cubes d'oranges confites
 - *160 g* melon confit
