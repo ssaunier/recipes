@@ -41,6 +41,7 @@ jobs:
             echo "::group::Validating ${file}"
 
             if ! python - "$file" <<'PY'
+          import re
           import sys
           from recipemd.data import RecipeParser
 
@@ -48,9 +49,20 @@ jobs:
 
           try:
               with open(filename, "r", encoding="UTF-8") as f:
-                  RecipeParser().parse(f.read())
+                  recipe = RecipeParser().parse(f.read())
           except Exception as exc:
               print(f"{filename}: Invalid RecipeMD ({exc})", file=sys.stderr)
+              sys.exit(1)
+
+          # An amount that is not in italics (e.g. **200 g** or a bare 200 g)
+          # still parses, but lands in the ingredient name with no amount.
+          errors = [
+              f"{filename}: Amount not in italics in ingredient {ingredient.name!r} (write it as *200 g* name)"
+              for ingredient in recipe.leaf_ingredients
+              if ingredient.amount is None and re.match(r"[*_\d]", ingredient.name)
+          ]
+          if errors:
+              print("\n".join(errors), file=sys.stderr)
               sys.exit(1)
           PY
             then

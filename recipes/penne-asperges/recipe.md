@@ -8,11 +8,11 @@ Salade de pâte, se mange chaud ou froid.
 
 ---
 
-- **200 g** penne
-- **75 g** fourme d'ambert
-- **40 g** bresaola
-- **10 cL** soja fluide
-- **100 g** asperge verte
+- *200 g* penne
+- *75 g* fourme d'ambert
+- *40 g* bresaola
+- *10 cL* soja fluide
+- *100 g* asperge verte
 - poivre
 
 ---
