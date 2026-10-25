@@ -2,21 +2,31 @@ name: Validate RecipeMD format
 
 on:
   push:
+    branches: [main]
     paths:
-      - "recipes/**/recipe.md"
+      - "recipes/**"
+      - "scripts/validate.py"
+      - "requirements.txt"
       - ".github/workflows/validate.yml"
   pull_request:
     paths:
-      - "recipes/**/recipe.md"
+      - "recipes/**"
+      - "scripts/validate.py"
+      - "requirements.txt"
       - ".github/workflows/validate.yml"
 
 permissions:
   contents: read
 
+concurrency:
+  group: validate-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   validate:
     name: RecipeMD validation
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
       - name: Check out repository
@@ -25,53 +35,11 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: "3.13"
+          cache: pip
 
-      - name: Install RecipeMD
-        run: python -m pip install --upgrade pip recipemd
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
 
       - name: Validate recipes
-        shell: bash
-        run: |
-          set -euo pipefail
-
-          status=0
-
-          while IFS= read -r -d '' file; do
-            echo "::group::Validating ${file}"
-
-            if ! python - "$file" <<'PY'
-          import re
-          import sys
-          from recipemd.data import RecipeParser
-
-          filename = sys.argv[1]
-
-          try:
-              with open(filename, "r", encoding="UTF-8") as f:
-                  recipe = RecipeParser().parse(f.read())
-          except Exception as exc:
-              print(f"{filename}: Invalid RecipeMD ({exc})", file=sys.stderr)
-              sys.exit(1)
-
-          # An amount that is not in italics (e.g. **200 g** or a bare 200 g)
-          # still parses, but lands in the ingredient name with no amount.
-          errors = [
-              f"{filename}: Amount not in italics in ingredient {ingredient.name!r} (write it as *200 g* name)"
-              for ingredient in recipe.leaf_ingredients
-              if ingredient.amount is None and re.match(r"[*_\d]", ingredient.name)
-          ]
-          if errors:
-              print("\n".join(errors), file=sys.stderr)
-              sys.exit(1)
-          PY
-            then
-              status=1
-            else
-              echo "OK"
-            fi
-
-            echo "::endgroup::"
-          done < <(find recipes -type f -path '*/recipe.md' -print0)
-
-          exit "$status"
+        run: python scripts/validate.py
