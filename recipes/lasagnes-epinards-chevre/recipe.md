@@ -8,7 +8,7 @@ Version végétarienne, avec béchamel et bûche de chèvre fondante
 
 ---
 
-- *12* feuille de lasagne précuite
+- *6* feuille de lasagne précuite
 - *600 g* épinards frais (ou surgelés, bien essorés)
 - *200 g* bûche de chèvre
 - *30 g* beurre
