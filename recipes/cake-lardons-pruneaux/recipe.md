@@ -8,12 +8,17 @@ Lardons fumés et pruneaux d'Agen
 
 ---
 
+## Base
+
 - *3* oeufs
 - *150 g* farine
 - *1 sachet* levure
 - *10 cL* huile de tournesol
-- *12,5 cL* lait entier
-- *100 g* gruyère râpé
+- *12,5 cL* lait
+- *100 g* emmental râpé
+
+## Garniture
+
 - *200 g* lardons fumés
 - *80 g* pruneaux d'Agen
 - *1 pincée* sel
@@ -23,7 +28,7 @@ Lardons fumés et pruneaux d'Agen
 
 1. Préchauffer le four à 180°C.
 1. Fouetter les oeufs, la farine, la levure, le sel et le poivre.
-1. Incorporer petit à petit l'huile et le lait, puis ajouter le gruyère.
+1. Incorporer petit à petit l'huile et le lait, puis ajouter l'emmental.
 1. Faire rissoler les lardons 5 minutes sans matière grasse, puis ajouter les pruneaux coupés en morceaux.
 1. Verser le tout dans un moule chemisé et cuire 45 minutes à 180°C.
 
