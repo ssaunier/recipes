@@ -33,4 +33,4 @@ Lardons fumés et pruneaux d'Agen
 1. Verser le tout dans un moule chemisé et cuire 45 minutes à 180°C.
 
 Source:
-- [Les cakes de Sophie](https://www.babelio.com/livres/Dudemaine-Les-Cakes-de-Sophie/41931), Sophie Dudemaine, Minerva, p. 19
+- [Les cakes de Sophie, Sophie Dudemaine, Minerva, p. 19](https://www.babelio.com/livres/Dudemaine-Les-Cakes-de-Sophie/41931)
