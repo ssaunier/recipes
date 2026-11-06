@@ -8,7 +8,7 @@ Thon frais et poivrons grillés
 
 ---
 
-#### Base
+## Base
 
 - *3* oeufs
 - *150 g* farine
@@ -17,7 +17,7 @@ Thon frais et poivrons grillés
 - *12,5 cL* lait
 - *100 g* emmental râpé
 
-#### Garniture
+## Garniture
 
 - *200 g* thon frais
 - *50 g* poivron vert
