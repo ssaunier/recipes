@@ -11,8 +11,8 @@ Lardons fumés et pruneaux d'Agen
 - *3* oeufs
 - *150 g* farine
 - *1 sachet* levure
-- *10 cl* huile de tournesol
-- *12,5 cl* lait entier
+- *10 cL* huile de tournesol
+- *12,5 cL* lait entier
 - *100 g* gruyère râpé
 - *200 g* lardons fumés
 - *80 g* pruneaux d'Agen
