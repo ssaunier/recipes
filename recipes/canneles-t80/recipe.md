@@ -1,6 +1,6 @@
 # Cannelés T80
 
-Pâtisserie bordelaise, version Labo & Gato
+Pâtisserie Bordelaise, version Labo & Gato (Cassonade)
 
 *dessert, végétarien*
 

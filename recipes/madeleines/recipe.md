@@ -1,6 +1,6 @@
 # Madeleines
 
-Madeleines au miel de François Perret
+Madeleines au miel de François Perret, glaçage à l'huile d'olive
 
 *dessert, végétarien*
 

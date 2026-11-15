@@ -1,6 +1,6 @@
 # Pains buns au levain
 
-Buns ultra moelleux, façon Tom Cooks
+Ultra moelleux (pomme de terre, yaourt), façon Tom Cooks
 
 *boulangerie, végétarien*
 

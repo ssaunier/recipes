@@ -1,6 +1,6 @@
 # Pâte à Pizza
 
-Style napolitain, four traditionnel
+Style napolitain, cuisson au four traditionnel (sans four à pizza)
 
 *boulangerie, vegan*
 

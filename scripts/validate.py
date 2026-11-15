@@ -11,7 +11,7 @@ from pathlib import Path
 import yaml
 from recipemd.data import RecipeParser
 
-MAX_DESCRIPTION_WORDS = 6
+MAX_DESCRIPTION_WORDS = 10
 META_KEYS = {"to_test": bool}
 
 

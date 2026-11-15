@@ -1,6 +1,6 @@
 # Gâteau au Yaourt
 
-Mesuré avec le pot de yaourt
+Recette classique, mesurée avec le pot de yaourt
 
 *dessert, végétarien*
 

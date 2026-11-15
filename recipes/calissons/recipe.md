@@ -1,6 +1,6 @@
 # Calissons
 
-Confiserie provençale, amandes et fruits confits
+Confiserie provençale, pâte d'amandes et fruits confits sur feuille azyme
 
 *dessert, végétarien*
 

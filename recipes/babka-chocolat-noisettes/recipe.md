@@ -1,6 +1,6 @@
 # Babka chocolat noisettes
 
-Brioche tressée, pâte à tartiner
+Brioche tressée garnie de pâte à tartiner
 
 *dessert, végétarien*
 

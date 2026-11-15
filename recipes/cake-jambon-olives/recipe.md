@@ -1,6 +1,6 @@
 # Cake au jambon et aux olives
 
-Jambon, olives vertes et pistaches
+Jambon de Paris, olives vertes et pistaches
 
 *apéritif, plat*
 
