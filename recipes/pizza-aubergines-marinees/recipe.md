@@ -16,7 +16,7 @@ Aubergines rôties marinées, mozzarella, basilic
 - *1 c. à café* vinaigre de vin
 - sauce tomate
 - *1* mozzarella di bufala
-- *quelques feuilles* basilic
+- basilic
 - *20 g* parmesan
 - sel
 - poivre
