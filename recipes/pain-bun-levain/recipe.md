@@ -1,6 +1,6 @@
 # Pains buns au levain
 
-Ultra moelleux grâce à la pomme de terre et au yaourt, façon Tom Cooks. Prévoir deux jours.
+Buns ultra moelleux, façon Tom Cooks
 
 *boulangerie, végétarien*
 

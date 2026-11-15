@@ -1,6 +1,6 @@
 # Gâteau ardéchois
 
-Gâteau moelleux à la crème de marrons
+Moelleux à la crème de marrons
 
 *dessert, végétarien*
 

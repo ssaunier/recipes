@@ -1,6 +1,6 @@
 # Madeleines
 
-Les madeleines au miel de François Perret, chef pâtissier du Ritz, avec leur glaçage à l'huile d'olive. Prévoir 1 à 2 jours de repos.
+Madeleines au miel de François Perret
 
 *dessert, végétarien*
 

@@ -1,6 +1,6 @@
 # Focaccia
 
-À la levure, avec flocons de pomme de terre
+Levure, flocons de pomme de terre
 
 *boulangerie, vegan*
 

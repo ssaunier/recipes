@@ -1,6 +1,6 @@
 # Gibassier
 
-Galette provençale à l'huile d'olive et à la fleur d'oranger, servie pour Noël
+Galette provençale de Noël, fleur d'oranger
 
 *dessert, vegan*
 

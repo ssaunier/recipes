@@ -1,6 +1,6 @@
 # Tarte Bourdaloue
 
-Pâte sucrée, crème d'amande et poires au sirop
+Crème d'amande et poires au sirop
 
 *dessert, végétarien*
 

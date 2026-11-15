@@ -1,6 +1,6 @@
 # Bibimbap
 
-Version végétarienne, riz et légumes sautés façon coréenne
+Riz et légumes sautés façon coréenne
 
 *plat, végétarien*
 

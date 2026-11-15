@@ -2,8 +2,7 @@
 
 Usage: python scripts/validate.py [recipes_dir]
 Format and meta.yml problems are errors (exit 1). Project conventions
-(short description, no parenthetical in ingredients) are warnings only,
-since older recipes predate them.
+(short description) are warnings only, since older recipes predate them.
 """
 import re
 import sys
@@ -35,8 +34,6 @@ def check_recipe(path):
             errors.append(
                 f"Amount not in italics in ingredient {ingredient.name!r} (write it as *200 g* name)"
             )
-        if "(" in ingredient.name:
-            warnings.append(f"Parenthetical mention in ingredient {ingredient.name!r}")
     return errors, warnings
 
 

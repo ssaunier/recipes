@@ -1,6 +1,6 @@
 # Scarpaccia aux Courgettes
 
-Galette toscane très fine, croustillante et gratinée au parmesan
+Galette toscane fine, croustillante, au parmesan
 
 *apéritif, végétarien*
 

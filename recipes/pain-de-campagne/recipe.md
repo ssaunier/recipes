@@ -1,6 +1,6 @@
 # Pain de campagne retardé
 
-Levain de seigle et pousse au froid
+Levain de seigle, pousse au froid
 
 *boulangerie, vegan*
 

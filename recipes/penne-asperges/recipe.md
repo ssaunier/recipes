@@ -1,6 +1,6 @@
 # Penne aux Asperges
 
-Salade de pâte, se mange chaud ou froid.
+Salade de pâtes, chaude ou froide
 
 *plat*
 

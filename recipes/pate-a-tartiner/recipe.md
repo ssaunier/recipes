@@ -1,6 +1,6 @@
 # Pâte à tartiner
 
-Imitation Nutella, recette du chef Christophe Michalak
+Imitation Nutella de Christophe Michalak
 
 *dessert, végétarien*
 

@@ -1,6 +1,6 @@
 # Lasagnes Épinards Chèvre
 
-Version végétarienne, avec béchamel et bûche de chèvre fondante
+Béchamel, épinards et bûche de chèvre
 
 *plat, végétarien*
 
