@@ -27,6 +27,3 @@ Lasagnes végétariennes gratinées, au coulis de tomate maison
 1. Répéter l'opération jusqu'à épuisement des ingrédients, en terminant par de la mozzarella.
 1. Verser le coulis de tomate, qui doit recouvrir tous les ingrédients.
 1. Enfourner 25 minutes. Faire gratiner sous le grill si besoin.
-
-Source:
-- Charlotte

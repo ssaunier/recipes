@@ -27,6 +27,3 @@ Poireaux fondants et saint-nectaire dans un appareil à clafoutis
 1. Ajouter les poireaux cuits et la muscade. Saler, poivrer.
 1. Verser dans un moule beurré et ajouter le saint-nectaire coupé en tranches.
 1. Enfourner 40 minutes.
-
-Source:
-- Charlotte

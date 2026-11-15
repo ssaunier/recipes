@@ -36,6 +36,3 @@ Farce de saumon, oeufs et échalotes sous une pâte feuilletée
 1. Dorer avec l'oeuf réservé et quadriller la pâte avec la pointe d'un couteau.
 1. Cuire 30 minutes à 225°C.
 1. Mélanger la crème fluide et le jus du citron, saler, poivrer. Servir avec la tourte.
-
-Source:
-- Charlotte

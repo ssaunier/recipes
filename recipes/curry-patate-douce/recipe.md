@@ -19,6 +19,3 @@ Curry de patate douce, épinards et lait de coco
 1. Les mélanger avec le lait de coco, le curry et les épinards.
 1. Laisser mijoter 20 minutes à feu doux en remuant.
 1. Saler. Servir avec du riz.
-
-Source:
-- Charlotte

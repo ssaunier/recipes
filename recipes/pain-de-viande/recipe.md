@@ -25,6 +25,3 @@ Boeuf haché et chair à saucisse cuits au four
 1. Mélanger la viande, la chair à saucisse, les biscottes, les oeufs, les oignons râpés et le persil. Saler, poivrer.
 1. Verser dans un plat beurré.
 1. Enfourner 1 heure.
-
-Source:
-- Charlotte

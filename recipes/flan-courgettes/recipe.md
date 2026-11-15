@@ -25,6 +25,3 @@ Flan de courgettes et oignons cuit au bain-marie
 1. Égoutter pour éliminer le jus.
 1. Diluer la maïzena dans autant d'eau. Mélanger les oeufs, la maïzena et le persil haché, puis ajouter les légumes égouttés.
 1. Cuire au bain-marie au four 40 minutes.
-
-Source:
-- Charlotte
