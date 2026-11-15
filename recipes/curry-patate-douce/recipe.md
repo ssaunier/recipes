@@ -2,7 +2,7 @@
 
 Curry de patate douce, épinards et lait de coco
 
-*plat, végétalien*
+*plat, vegan*
 
 **4 personnes**
 
