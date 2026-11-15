@@ -2,7 +2,7 @@
 
 Usage: python scripts/validate.py [recipes_dir]
 Format and meta.yml problems are errors (exit 1). Project conventions
-(short description) are warnings only, since older recipes predate them.
+(short description, at most one tag per ingredient) are warnings only, since older recipes predate them.
 """
 import re
 import sys
@@ -13,6 +13,8 @@ from recipemd.data import RecipeParser
 
 MAX_DESCRIPTION_WORDS = 10
 META_KEYS = {"to_test": bool}
+MARKDOWN_LINK = re.compile(r"\[([^\]]*)\]\([^)]*\)")
+TAG = re.compile(r"\(([^()]*)\)")
 
 
 def check_recipe(path):
@@ -34,6 +36,11 @@ def check_recipe(path):
             errors.append(
                 f"Amount not in italics in ingredient {ingredient.name!r} (write it as *200 g* name)"
             )
+        # A tag is a parenthetical like "(facultatif)"; keep it to one short mention.
+        # Parentheses of a Markdown link [text](url) are not tags.
+        tags = TAG.findall(MARKDOWN_LINK.sub(r"\1", ingredient.name))
+        if len(tags) > 1 or any("," in tag for tag in tags):
+            warnings.append(f"More than one tag in ingredient {ingredient.name!r}")
     return errors, warnings
 
 

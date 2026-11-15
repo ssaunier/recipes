@@ -9,7 +9,7 @@ Version végétarienne, avec béchamel et bûche de chèvre fondante
 ---
 
 - *6* feuille de lasagne précuite
-- *600 g* épinards frais (ou surgelés, bien essorés)
+- *600 g* épinards frais
 - *200 g* bûche de chèvre
 - *30 g* beurre
 - *30 g* farine
@@ -24,7 +24,7 @@ Version végétarienne, avec béchamel et bûche de chèvre fondante
 
 1. Éplucher et émincer finement l'oignon et l'ail.
 1. Faire chauffer l'huile d'olive dans une grande poêle. Ajouter l'oignon, laisser devenir translucide, puis ajouter l'ail.
-1. Incorporer les épinards. Laisser cuire à feu moyen 5 à 10 minutes, jusqu'à ce qu'ils aient bien rendu leur eau. Égoutter soigneusement dans une passoire.
+1. Incorporer les épinards (ou des surgelés, bien essorés). Laisser cuire à feu moyen 5 à 10 minutes, jusqu'à ce qu'ils aient bien rendu leur eau. Égoutter soigneusement dans une passoire.
 1. Faire fondre le beurre dans une casserole. Ajouter la farine et mélanger au fouet pendant 1 minute pour obtenir un roux.
 1. Verser le lait petit à petit sans cesser de fouetter jusqu'à obtenir une sauce épaisse et lisse. Assaisonner avec le sel, le poivre et la muscade. Retirer du feu et laisser tiédir légèrement.
 1. Préchauffer le four à 180°C (chaleur tournante).
